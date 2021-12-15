@@ -1,0 +1,74 @@
+{
+    "prefix": "!",
+    "emoji": {
+        "hi": {
+            "fps": 0.1,
+            "frames": [
+                "H",
+                "He",
+                "Hel",
+                "Hell",
+                "Hello",
+                "Hello W",
+                "Hello Wo",
+                "Hello Wor",
+                "Hello Worl",
+                "Hello World",
+                "Hello World!"
+            ]
+        },
+        "fliptable_story": {
+            "fps": 1,
+            "frames": [
+                "(╯°□°)╯︵ ┻━┻ FLIP THAT TABLE.",
+                "┻━┻ ︵ ヽ(°□°ヽ) FLIP THIS TABLE.",
+                "┻━┻ ︵ ＼(°0°)/／ ︵ ┻━┻ FLIP ALL THE TABLES",
+                "ಠ_ಠ Child",
+                "ಠ_ಠ Child.",
+                "ಠ_ಠ Child. .",
+                "ಠ_ಠ Child. . .",
+                "ಠ_ಠ Put.",
+                "ಠ__ಠ The tables.",
+                "ಠ___ಠ Back.",
+                "(╮°-°)╮┳━┳",
+                "(╮°-°)╮ ┳━┳",
+                "(╯°□°)╯︵ ┻━┻ NEVER"
+            ]
+        },
+        "sad": {
+            "fps": 0.5,
+            "frames": [
+                "😆‌",
+                "😄‌",
+                "😁‌",
+                "😃‌",
+                "😀‌",
+                "🙂‌",
+                "🤨‌",
+                "😐‌",
+                "😕‌",
+                "🙁‌",
+                "☹️‌",
+                "😣‌",
+                "😖‌",
+                "😫‌",
+                "😭‌"
+            ]
+        },
+        "bla": {
+            "fps": 0.1,
+            "frames": [
+                "😄 Blah",
+                "😁 Blah",
+                "😄 Blah",
+                "😁 Blah",
+                "😄 Blah",
+                "😁 Blah"
+            ]
+        },
+        "shrung": "¯\\_(ツ)_/¯",
+        "fight": "(ง'̀-'́)ง",
+        "doge": "(UᵔᴥᵔU)",
+        "mute": "(●x●)"
+    }
+}
